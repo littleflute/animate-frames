@@ -1,3 +1,10 @@
+/*
+ * Frame animation for HTML/CSS Sprites, using jQuery
+ * version 0.0.1
+ * Released under the MIT license.
+ *
+ * karl@wedugames.com
+ */
 (function(jQuery){
 	var defaults = {
 		numFrames : 2,
