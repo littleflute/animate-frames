@@ -1,0 +1,306 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getListenerNum"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"cu",
+				"currentTime"
+			],
+			[
+				"lrcT",
+				"lrcTimeArray"
+			],
+			[
+				"in",
+				"innerHTML"
+			],
+			[
+				"lr",
+				"lrcUlr"
+			],
+			[
+				"son",
+				"songData"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"Response",
+				"ResponseBody"
+			],
+			[
+				"Respones",
+				"ResponseBody"
+			],
+			[
+				"gre",
+				"greeting"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sublime.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Makefile/Make.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/User/github/animate-frames"
+	],
+	"file_history":
+	[
+		"/C/Users/User/github/MinGW-Win32-Application/Readme.md",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/mingw32-make.sublime-build",
+		"/C/Users/User/github/MinGW-Win32-Application/.gitignore",
+		"/C/Users/User/github/MinGW-Win32-Application/License.txt",
+		"/C/Users/User/github/MinGW-Win32-Application/res/Application.ico",
+		"/C/Users/User/github/MinGW-Win32-Application/res/Application.manifest",
+		"/C/Users/User/github/MinGW-Win32-Application/res/Resource.rc",
+		"/C/Users/User/github/MinGW-Win32-Application/include/AboutDialog.h",
+		"/C/Users/User/github/MinGW-Win32-Application/include/Globals.h",
+		"/C/Users/User/github/MinGW-Win32-Application/include/MainWindow.h",
+		"/C/Users/User/github/MinGW-Win32-Application/include/Resource.h",
+		"/C/Users/User/github/MinGW-Win32-Application/src/MainWindow.c",
+		"/C/Users/User/github/MinGW-Win32-Application/src/WinMain.c",
+		"/C/Users/User/github/MinGW-Win32-Application/r.bat",
+		"/C/Users/User/github/MinGW-Win32-Application/Makefile",
+		"/C/Users/User/github/blMp3Player/LICENSE",
+		"/C/Users/User/github/blMp3Player/Note Dec 5, 2017 (3).pdf",
+		"/C/Users/User/github/blMp3Player/README.md",
+		"/C/Users/User/github/blMp3Player/images/album_cover_mask.png",
+		"/C/Users/User/github/blMp3Player/javascript/musicPlayer.js",
+		"/C/Users/User/github/blMp3Player/images/index.jpg",
+		"/C/Users/User/github/blMp3Player/images/index.html",
+		"/C/Users/User/github/blMp3Player/images/control_panel_bg.png",
+		"/C/Users/User/github/testwebsite/src/gradlew",
+		"/C/Users/User/github/testwebsite/src/src/main/java/test1/Json.java",
+		"/C/Users/User/github/testwebsite/src/build.gradle",
+		"/C/Users/User/github/testwebsite/src/src/main/java/test1/GitHubService.java",
+		"/C/Users/User/github/jeremyjia/Games/issues/4/c1.js",
+		"/C/Users/User/gradle/src/test/java/io/group6/test1/AppTest.java"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sublime.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 162.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/mingw32-make.sublime-build",
+	"project": "sublime.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
